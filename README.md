@@ -6,7 +6,7 @@
 [Applied Bioinformatics BIOL441 Fall 2023 4 Credit.](https://pawar1550.wixsite.com/claflin-courses/copy-of-applied-bioinformatics-biol44)
 
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
-
+[R: affy, rBLAST, ape, phangorn, phytools, geiger]
 [Bioinformatics:](https://youtu.be/G6Xh9QJQrjA)
 [Bioinformatics:](https://youtu.be/UlU8GlZP7GU)
 [Bioinformatics:](https://youtu.be/YVMVhcDCMY8)
