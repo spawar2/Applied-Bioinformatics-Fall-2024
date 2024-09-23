@@ -1,7 +1,7 @@
 # Applied-Bioinformatics-Fall-2024
 
 # Applied-Bioinformatics-fall2023 Learning Objectives
- Bioinformatics (topics including sequence alignment algorithms, scoring matrices, microarray analysis, phylogenetic analysis, bootstrapping, tree building, secondary & tertiary structure prediction, homology modeling, and protein folding)], visualization: heat maps, volcano plots, pie charts, Sequence alignments (Margaret Dayhoff, PAM, blossom scoring matrices, global & local alignment). Gene Expression Omnibus (GEO) datasets mining, Microarray data analysis: Read, Pre-processing/Normalization (Affy, Oligo, Limma-RMA, Quantile, Mas5.0), Visualization: Heat maps, box plots, Fold change expression analysis, Gene Set Enrichment Analysis (GSEA), Pathways and protein downstream interactome analysis.
+ Bioinformatics (topics including sequence alignment algorithms, scoring matrices, microarray analysis, phylogenetic analysis, bootstrapping, tree plot rooted, unrooted tree structure, building, secondary & tertiary structure prediction, homology modeling, and protein folding)], visualization: heat maps, volcano plots, pie charts, Sequence alignments (Margaret Dayhoff, PAM, blossom scoring matrices, global & local alignment). Gene Expression Omnibus (GEO) datasets mining, Microarray data analysis: Read, Pre-processing/Normalization (Affy, Oligo, Limma-RMA, Quantile, Mas5.0), Visualization: Heat maps, box plots, Fold change expression analysis, Gene Set Enrichment Analysis (GSEA), Pathways and protein downstream interactome analysis.
 
 [Applied Bioinformatics BIOL441 Fall 2023 4 Credit.](https://pawar1550.wixsite.com/claflin-courses/copy-of-applied-bioinformatics-biol44)
 
