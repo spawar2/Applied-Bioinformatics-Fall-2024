@@ -4,4 +4,10 @@
 library(ape)
 
 # Generate some dummy data
-text.string<- "(((((((cow, pig),whale),(bat,(lemur,human))),(robin,iguana)),coelacanth),gold_fish),shark)"
+text.string<- "(((((((cow, pig),whale),(bat,(lemur,human))),(robin,iguana)),coelacanth),gold_fish),shark);"
+
+# Read the dummy data as a tree structure
+vert.tree<-read.tree(text=text.string)
+
+# Generate a basic plot of dummy data
+plot(vert.tree,no.margin=TRUE,edge.width=2, main="Phylogenetic tree")
