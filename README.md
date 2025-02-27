@@ -28,7 +28,7 @@ Applied Bioinformatics Fall 23 (2 students).
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6)
 
-First_Program.R: Microarray datasets readin, Robust Multiarray normalization,  boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
+First_Program.R: Microarray datasets reading, Robust Multiarray normalization,  boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
 Phylogenetic-Analysis.R: Load tree libraries, generate dummy data, read, plot tree structure.
 selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, CreateSeuratObject, FeatureScatter, NormalizeData, reduce.dimensions, FindNeighbors, FindClusters, RunTSNE, RunUMAP, use.phate, get.species.cells, make_analysis_from_table, plotCurveHeatmaps, plotPseudoTime, runPseudoTimeDGE, runSlignshot, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table, BGmix, ccParams, TailPP, ccTrace, histTailPP, FDRplotTailPP, histccPred, plotFDR, plotPredChecks, exprSet). Affymetrix raw data distribution plot: Affy-Read.png
 Command prompt: CMD.png
