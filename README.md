@@ -6,7 +6,7 @@ Date created/updated: December, 9, 2024.
 ^^Claflin University, School of Natural Sciences and Mathematics, Department of Computer Science and Biology, Orangeburg, South Carolina, United States of America (USA). 
 [Applied Bioinformatics BIOL441 Fall 2023 4 Credit.](https://pawar1550.wixsite.com/claflin-courses/copy-of-applied-bioinformatics-biol44)
 https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
-
+https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-biology
 https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 [R: affy, rBLAST, ape, phangorn, phytools, geiger].
